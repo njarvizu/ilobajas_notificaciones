@@ -1,0 +1,7 @@
+{
+    "rethinkdb": {
+        "host": "miservidor",
+        "port": 28015
+       
+    }
+}

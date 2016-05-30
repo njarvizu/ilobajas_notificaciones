@@ -1,0 +1,26 @@
+{
+  "name": "correos",
+  "version": "1.0.0",
+  "description": "enviar correos",
+  "main": "send_correo.js",
+  "scripts": {
+    "start": "node send_correo.js"
+  },
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "",
+    "express-mailer": "^0.3.0",
+    "fs": "0.0.2",
+    "hogan": "^1.0.2",
+    "http": "0.0.0",
+    "nodemailer": "^2.2.1",
+    "prettyjson": "^1.1.3",
+    "request": "^2.69.0",
+    "rethinkdb": "^2.2.2",
+    "sendgrid": "^2.0.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "author": "nestor diaz",
+  "license": "ISC"
+}
